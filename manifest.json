@@ -1,5 +1,6 @@
 {
 	"BundleType": "Application",
+	"BundleIdentifier": "boilthefrog",
 	"AppIcon": {
 		"18x18": "frog-icon.png"
 	},
